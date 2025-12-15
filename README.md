@@ -1,1 +1,2 @@
 # -Excel-Project-Vrinda_Store_Report-2022-Project
+Analyzed the 2022 sales data of Vrinda Store to identify customer purchasing patterns and sales trends. Performed data cleaning, processing, and visualization using tools like Excel o generate actionable insights. The project focused on analyzing sales by gender, age group, product category, channels, and regions to improve business decision-making. Insights from the analysis helped understand peak sales periods, top-performing products, and key customer segments, supporting data-driven marketing and inventory strategies.
